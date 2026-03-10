@@ -1,0 +1,2 @@
+# Traditional_item_selling_project
+traditional_items_project
